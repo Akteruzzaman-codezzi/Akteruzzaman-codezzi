@@ -1,29 +1,67 @@
 <div align="center">
 
 # Hi there, I'm Md. Akteruzzaman 👋
-### Senior Full Stack .NET & Angular Developer | Enterprise & Fintech Architect
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=680&lines=Senior+Full+Stack+.NET+%26+Angular+Developer;Fintech+%26+Digital+Payments+Architect;Clean+Architecture+%7C+Microservices+%7C+RabbitMQ;High-Performance+Web+%26+Cross-Platform+Apps" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akteruzzaman519/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mdakteruzzaman519/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akteruzzaman.codezzi@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-00599C?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Dhaka,+Bangladesh)
+[![Profile Views](https://komarev.com/ghpvc/?username=Akteruzzaman-codezzi&color=blueviolet&style=for-the-badge&label=VIEWS)](https://github.com/Akteruzzaman-codezzi)
 
 <br/>
 
 <p align="center">
-  🚀 Seasoned Full Stack Software Engineer with <b>7+ years of experience</b> designing and building scalable enterprise systems, high-performance web applications, and resilient backend microservices.<br/>
-  Specialized in <b>Fintech, Digital Payments, QR Wallets, ERP</b>, and distributed architectures using <b>ASP.NET Core</b> and <b>Angular</b>.
+  🚀 Seasoned Full Stack Software Engineer with <b>7+ years of professional experience</b> architecting and shipping mission-critical systems.<br/>
+  Expertise spans <b>Fintech, Digital Wallets, QR Payments, Enterprise ERPs</b>, and distributed microservices with <b>ASP.NET Core</b> and modern <b>Angular</b>.
 </p>
 
 </div>
 
 ---
 
-### 💼 What I Bring to the Table
-- 💳 **Fintech & Payment Gateway Integration:** Built digital wallet operations, QR-based payment flows, KYC integrations, and transaction security following PCI DSS standards.
-- 🏗️ **Clean Architecture & Microservices:** Extensive hands-on experience migrating legacy monoliths to scalable microservices using RabbitMQ, SOLID principles, and CQRS / Repository patterns.
-- ⚡ **High-Performance Web Applications:** Architected responsive single-page applications & micro-frontends with Angular (v2 to v19), reactive state management (NgRx, RxJS, Signals), and AG-Grid data visualization.
-- 🛠️ **Enterprise Solutions:** Delivered end-to-end solutions for Textile ERPs, Restaurant POS systems (multi-printer routing, split payments), and dynamic PDF reporting engines.
+### 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akteruzzaman-codezzi&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 💼 Career & Domain Snapshot
+
+| Period | Organization | Role | Domain & Core Highlights |
+| :--- | :--- | :--- | :--- |
+| **2025 – Present** | **Codezzi** | Full Stack .NET & Angular Developer | Fintech, QR Payments, Digital Wallet, KYC, PCI-DSS Compliance |
+| **2024 – 2025** | **Easy Payment System** | Full Stack .NET & Angular Developer | Scalable Financial APIs, Transaction Integrity, System Scalability |
+| **2023 – 2024** | **United Software Solutions** | Senior Angular Developer | Restaurant POS, AG-Grid Analytics, Multi-Printer Routing, Split Payments |
+| **2020 – 2023** | **Infocrat Solution Ltd.** | Full Stack .NET & Angular Developer | Textile ERP, Monolith-to-Microservices Migration, RabbitMQ, iTextSharp |
+| **2018 – 2020** | **Nil Sagor Group** | Junior Developer | E-Commerce Platform Architecture, Angular & Node.js Modernization |
+
+---
+
+### 🌟 Featured Projects & Architectural Showcases
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                   EASYTOBUY MULTI-TIER ECOSYSTEM                       │
+├───────────────────────┬────────────────────────┬───────────────────────┤
+│    EasyToBuyAPI       │   EasyToBayPlatefrom   │      EasyToBuyNG      │
+│  (ASP.NET Core 9/C#)  │    (Angular 21+)       │    (Angular 18+)      │
+│  • Clean Architecture │  • Signals & Computed  │  • NgRx State Store   │
+│  • Dapper + SQL       │  • SSR Hydration Safe  │  • TailwindCSS UI     │
+│  • Microservices Ready│  • Dynamic Themes      │  • Multi-Vendor Cart  │
+└───────────────────────┴────────────────────────┴───────────────────────┘
+```
+
+- 💳 **Digital Payments & Wallet Engine**: End-to-end QR payment processing, third-party gateway integrations, split-tender checkouts, and high-security transaction logging.
+- 🏭 **Textile ERP & Dynamic Reporting**: Automated inventory, procurement, and billing workflows featuring an iTextSharp runtime PDF reporting engine.
+- 🍽️ **Point of Sale (POS) Solutions**: Real-time cashier/waiter session controls, instant receipt routing, and offline-first progressive web features.
 
 ---
 
@@ -46,14 +84,15 @@
   <tr>
     <td width="22%"><b>Frontend & UI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Angular%20(v2--v19)-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Angular%20(v2--v21)-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/NgRx-BA68C8?style=flat-square&logo=ngrx&logoColor=white" alt="NgRx" />
       <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
+      <img src="https://img.shields.io/badge/Angular%20Signals-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Signals" />
       <img src="https://img.shields.io/badge/AG--Grid-007ACC?style=flat-square" alt="AG Grid" />
-      <img src="https://img.shields.io/badge/Angular%20Material-3F51B5?style=flat-square&logo=angular&logoColor=white" alt="Material" />
-      <img src="https://img.shields.io/badge/Bootstrap%20/%20Tailwind-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap/Tailwind" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
     </td>
   </tr>
@@ -83,13 +122,14 @@
       <img src="https://img.shields.io/badge/SOLID%20Principles-28A745?style=flat-square" alt="SOLID" />
       <img src="https://img.shields.io/badge/Micro%20Frontends-FF6B6B?style=flat-square" alt="Micro Frontends" />
       <img src="https://img.shields.io/badge/Repository%20Pattern-6C757D?style=flat-square" alt="Repository Pattern" />
+      <img src="https://img.shields.io/badge/Event--Driven-FF9900?style=flat-square" alt="Event-Driven" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akteruzzaman-codezzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akteruzzaman's GitHub stats" height="160" />
@@ -100,9 +140,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akteruzzaman-codezzi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akteruzzaman-codezzi&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</div>
+
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect & Collaborate
 - 💼 **LinkedIn:** [linkedin.com/in/akteruzzaman519](https://www.linkedin.com/in/akteruzzaman519/)
 - 💻 **LeetCode:** [leetcode.com/u/mdakteruzzaman519](https://leetcode.com/u/mdakteruzzaman519/)
 - 📧 **Direct Email:** [akteruzzaman.codezzi@gmail.com](mailto:akteruzzaman.codezzi@gmail.com) / [mdakteruzzaman519@gmail.com](mailto:mdakteruzzaman519@gmail.com)

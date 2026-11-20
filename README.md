@@ -3,7 +3,7 @@
 # Hi there, I'm Md. Akteruzzaman 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38B2AC&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+.NET+%26+Angular+Developer;Fintech+%26+Digital+Payments+Architect;Clean+Architecture+%7C+Microservices+%7C+RabbitMQ;AI+Agents+%26+Agentic+Coding+Explorer;LLM+Fine-Tuning+%26+Model+Training+%7C+Linux+%26+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38B2AC&center=true&vCenter=true&width=780&lines=Senior+Full+Stack+.NET+%26+Angular+Developer;Fintech+%26+Digital+Payments+Architect;Clean+Architecture+%7C+Microservices+%7C+RabbitMQ;Agentic+AI+Architecture+%26+LLM+Fine-Tuning;Linux+Server+%26+Windows+IIS+Management+%7C+CI%2FCD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,19 +18,22 @@
 
 <p align="center">
   🚀 Seasoned Full Stack Software Engineer with <b>7+ years of professional experience</b> architecting and shipping mission-critical systems.<br/>
-  Expertise spans <b>Fintech, Digital Wallets, QR Payments, Enterprise ERPs</b>, and distributed microservices with <b>ASP.NET Core</b> and modern <b>Angular</b>.<br/>
-  Actively advancing in <b>Autonomous AI Agents, LLM Fine-Tuning, CI/CD Automation</b>, and <b>Linux Systems</b>.
+  Specialized in <b>Fintech, Digital Payments, QR Wallets, Enterprise ERPs</b>, and distributed microservices with <b>ASP.NET Core</b> and modern <b>Angular</b>.<br/>
+  Actively advancing in <b>Agentic AI Architecture, LLM Fine-Tuning, Linux & Windows IIS Server Management</b>, and <b>Automated CI/CD</b>.
 </p>
 
 </div>
 
 ---
 
-### 🧠 Current Focus & Future Horizons
-- 🤖 **AI Agents & Agentic Coding:** Architecting autonomous agents, multi-agent collaboration workflows, tool-calling pipelines, and intelligent agentic workflows.
-- 🔬 **LLMs & Model Training:** Exploring Large Language Model (LLM) fine-tuning (PEFT/LoRA), prompt engineering architectures, PyTorch, and Hugging Face ecosystems.
-- ⚡ **CI/CD & DevOps Automation:** Building automated continuous integration and continuous deployment pipelines (GitHub Actions) for zero-downtime releases.
-- 🐧 **Linux Environments:** Linux system administration, bash automation scripting, containerized server environments, and production debugging.
+### 🧠 Current Focus & Engineering Horizons
+
+- 🤖 **Agentic Architecture & AI Systems:** Designing autonomous AI agents, multi-agent coordination frameworks, tool-calling pipelines, RAG (Retrieval-Augmented Generation), and agentic workflows.
+- 🔬 **LLM Fine-Tuning & Model Training:** Exploring Large Language Model (LLM) fine-tuning (PEFT/LoRA), tokenization, model alignment, PyTorch, and Hugging Face architectures.
+- 🖥️ **Linux & Windows IIS Server Management:**
+  - **Linux Servers:** Production server setup, Nginx reverse proxy, systemd services, SSH hardening, SSL/TLS, process monitoring, and bash automation scripts.
+  - **Windows Server & IIS:** IIS hosting, Application Pool optimization, URL Rewrite & ARR (Application Request Routing), SSL certificates, and ASP.NET Core Hosting Bundle management.
+- ⚡ **CI/CD & DevOps Automation:** Designing automated continuous integration and continuous deployment pipelines (GitHub Actions) for reliable, zero-downtime releases.
 
 ---
 
@@ -106,25 +109,25 @@
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>AI, LLM & Agents</b></td>
+    <td width="22%"><b>AI, LLM & Agentic Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20Coding-8A2BE2?style=flat-square" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Agentic%20Architecture-Autonomous%20Agents-8A2BE2?style=flat-square" alt="Agentic Architecture" />
       <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-Model%20Training-FF6F00?style=flat-square" alt="LLM Fine-Tuning" />
+      <img src="https://img.shields.io/badge/RAG%20Architecture-Vector%20Search-00A86B?style=flat-square" alt="RAG" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>DevOps & Infrastructure</b></td>
+    <td width="22%"><b>Server & Infrastructure</b></td>
     <td>
-      <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square" alt="CI/CD" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Linux%20Server-Ubuntu%2FDebian-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Server" />
+      <img src="https://img.shields.io/badge/Windows%20Server-IIS%20Hosting-0078D4?style=flat-square&logo=windows&logoColor=white" alt="IIS Server" />
+      <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
     </td>
   </tr>
   <tr>
@@ -140,9 +143,10 @@
     <td>
       <img src="https://img.shields.io/badge/Clean%20Architecture-00599C?style=flat-square" alt="Clean Architecture" />
       <img src="https://img.shields.io/badge/SOLID%20Principles-28A745?style=flat-square" alt="SOLID" />
+      <img src="https://img.shields.io/badge/Microservices%20Architecture-326CE5?style=flat-square" alt="Microservices" />
       <img src="https://img.shields.io/badge/Micro%20Frontends-FF6B6B?style=flat-square" alt="Micro Frontends" />
       <img src="https://img.shields.io/badge/Repository%20Pattern-6C757D?style=flat-square" alt="Repository Pattern" />
-      <img src="https://img.shields.io/badge/Event--Driven-FF9900?style=flat-square" alt="Event-Driven" />
+      <img src="https://img.shields.io/badge/Event--Driven%20Architecture-FF9900?style=flat-square" alt="Event-Driven" />
     </td>
   </tr>
 </table>
